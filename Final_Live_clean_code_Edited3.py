@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+@author: EECE AR HUD TEAM 2018
+
 """
 Created on Sat Jul  7 19:40:54 2018
 
-@author: dina
 """
 
 #!/usr/bin/env python3
@@ -11,7 +12,6 @@ Created on Sat Jul  7 19:40:54 2018
 """
 Created on Fri Jul  6 19:06:52 2018
 
-@author: dina
 """
 
 #!/usr/bin/env python3
@@ -19,13 +19,11 @@ Created on Fri Jul  6 19:06:52 2018
 """
 Created on Fri Jul  6 14:39:50 2018
 
-@author: dina
 """
 
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-@author: EECE AR HUD TEAM 2018
 """
 
 """
