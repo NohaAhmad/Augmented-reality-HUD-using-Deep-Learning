@@ -4,28 +4,17 @@
 
 """
 @author: EECE AR HUD TEAM 2018
-Created on Sat Jul  7 19:40:54 2018
-
-"""
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jul  6 19:06:52 2018
-
-"""
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
 Created on Fri Jul  6 14:39:50 2018
 
 """
 
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-"""
+
+
+
+
+
+
+
 
 """
 This is a script that can be used to retrain the YOLOv2 model for our own dataset.
